@@ -51,7 +51,7 @@ This project was completed as part of the Digital Electronics Lab coursework at 
 **Team Members:**
 - أحمد محمد أحمد فؤاد المنيلاوي  
 - احمد رضا كامل عبد الغني  
-- إسراء حمدي سيد عبد المسلا  
+- إسراء حمدي سيد عبد السلام 
 - ايه حمادة فرج
 - احمد سعيد محمد إمام زايد  
 
